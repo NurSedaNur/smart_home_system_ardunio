@@ -62,3 +62,8 @@ void clearData() fonksiyonu içerisinde ise
 temizleme işlemlerini yaptım. return; ile de
 başa dönmeyi sağladım.
 
+Projeyle ilgili detaylı bilgiye aşağıdaki dosyadan ulaşabilirsiniz.
+[rapor.pdf](https://github.com/NurSedaNur/smart_home_system_ardunio/files/12652323/rapor.pdf)
+
+
+
