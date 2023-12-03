@@ -1,10 +1,7 @@
 # smart_home_system_ardunio
 it has written with ardunio
 
-Projeye ait detaylı bilgiye aşağıdaki rapordan ulaşabilirsiniz
-
-
-[rapor.pdf](https://github.com/NurSedaNur/smart_home_system_ardunio/files/12652323/rapor.pdf)
+Projeye ait detaylı bilgiye Rapor(1).pdf dosyasından ulaşabilirsiniz
 
 2-Giriş
 Bu projede bizden istenen proteus
